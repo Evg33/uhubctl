@@ -100,8 +100,8 @@ This is list of known compatible USB hubs:
 | Microchip          | EVB-USB5807                                          | 7     | 3.0 |           | 2016    |      |
 | Moxa               | Uport-407                                            | 7     | 2.0 |`110A:0407`| 2009    |      |
 | NVidia             | Jetson Nano B01 ([details](https://git.io/JJaFR))    | 4     | 3.0 |           | 2019    |      |
-| NVidia             | Jetson Orin Nano Devkit ([details](https://tinyurl.com/OrinNDK) | 4 | 3.0 |    | 2023    |      |
-| NVidia             | Jetson Xavier NX ([details](https://tinyurl.com/Xavier-NX)) | 4     | 3.0 |    | 2020    |      |
+| NVidia             | Jetson Orin Nano Devkit ([details](https://tinyurl.com/OrinNDK)) | 4 | 3.0 |   | 2023    |      |
+| NVidia             | Jetson Xavier NX ([details](https://tinyurl.com/Xavier-NX))      | 4 | 3.0 |   | 2020    |      |
 | Phidgets           | HUB0003_0                                            | 7     | 2.0 |`1A40:0201`| 2017    |      |
 | Philips            | 346B1C UltraWide 34" Curved Monitor                  | 4     | 3.0 |`05E3:0610`| 2019    |      |
 | Plugable           | USB3-HUB7BC                                          | 7     | 3.0 |`2109:0813`| 2015    |      |
@@ -504,12 +504,13 @@ Notable projects using uhubctl
 | [Python Wrapper for uhubctl](https://github.com/nbuchwitz/python3-uhubctl) | Module to use uhubctl with Python     |
 | [labgrid](https://github.com/labgrid-project/labgrid)    | Framework for testing embedded Linux on hardware        |
 | [Thermal Camera](https://tinyurl.com/5asne8hw)           | Turn on/off robot's thermal camera when necessary       |
+| [Mobile Device Farm](https://tinyurl.com/e639dx6r)       | Remote USB Power Cycling for Device Farms using uhubctl |
 
 
 Copyright
 =========
 
-Copyright (C) 2009-2025 Vadim Mikhailov
+Copyright (C) 2009-2026 Vadim Mikhailov
 
 This file can be distributed under the terms and conditions of the
 GNU General Public License version 2.

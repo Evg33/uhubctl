@@ -99,7 +99,8 @@ This is list of known compatible USB hubs:
 | Microchip          | EVB-USB5807                                          | 7     | 3.0 |           | 2016    |      |
 | Moxa               | Uport-407                                            | 7     | 2.0 |`110A:0407`| 2009    |      |
 | NVidia             | Jetson Nano B01 ([details](https://git.io/JJaFR))    | 4     | 3.0 |           | 2019    |      |
-| NVidia             | Jetson Xavier NX ([details](https://tinyurl.com/Xavier-NX)) | 4     | 3.0 |           | 2020    |      |
+| NVidia             | Jetson Orin Nano Devkit ([details](https://tinyurl.com/OrinNDK) | 4 | 3.0 |    | 2023    |      |
+| NVidia             | Jetson Xavier NX ([details](https://tinyurl.com/Xavier-NX)) | 4     | 3.0 |    | 2020    |      |
 | Phidgets           | HUB0003_0                                            | 7     | 2.0 |`1A40:0201`| 2017    |      |
 | Philips            | 346B1C UltraWide 34" Curved Monitor                  | 4     | 3.0 |`05E3:0610`| 2019    |      |
 | Plugable           | USB3-HUB7BC                                          | 7     | 3.0 |`2109:0813`| 2015    |      |

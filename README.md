@@ -84,6 +84,7 @@ This is list of known compatible USB hubs:
 | Lenovo             | ThinkPad Mini Dock Series 3 (433710U)                | 6     | 2.0 |`17EF:100A`| 2016    |      |
 | Lenovo             | ThinkPad Ultra Docking Station (40A20090EU)          | 6     | 2.0 |`17EF:100F`| 2015    |      |
 | Lenovo             | ThinkPad Ultra Docking Station (40AJ0135EU)          | 7     | 3.1 |`17EF:3070`| 2018    |      |
+| Lenovo             | ThinkPad USB 3.0 Ultra Dock (40A8) DK-1523           | 6     | 3.0 |`17EF:1014`| 2015    |      |
 | Lenovo             | ThinkPad X200 Ultrabase 42X4963                      | 3     | 2.0 |`17EF:1005`| 2008    | 2011 |
 | Lenovo             | ThinkPad X6 Ultrabase 42W3107                        | 4     | 2.0 |`17EF:1000`| 2006    | 2009 |
 | Lenovo             | ThinkPlus 4-in-1 USB-C hub 4X90W86497                | 3     | 3.0 |           | 2021    |      |
